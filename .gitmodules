@@ -1,0 +1,3 @@
+[submodule "oscar"]
+	path = oscar
+	url = https://github.com/jrkwon/oscar.git
